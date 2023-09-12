@@ -1,0 +1,26 @@
+Here are the ranked results for average insurance cost by sub-population with a comparison to the average insurance cost for the total population.
+Sub population age_0_19 has average insurance cost $8407.35 that is 0.63 times the average insurance cost of the total population.
+Sub population smoker_no has average insurance cost $8434.27 that is 0.64 times the average insurance cost of the total population.
+Sub population bmi_underweight has average insurance cost $8657.62 that is 0.65 times the average insurance cost of the total population.
+Sub population children_5 has average insurance cost $8786.04 that is 0.66 times the average insurance cost of the total population.
+Sub population age_20_29 has average insurance cost $9561.75 that is 0.72 times the average insurance cost of the total population.
+Sub population bmi_healthy has average insurance cost $10379.5 that is 0.78 times the average insurance cost of the total population.
+Sub population bmi_overweight has average insurance cost $10993.99 that is 0.83 times the average insurance cost of the total population.
+Sub population age_30_39 has average insurance cost $11738.78 that is 0.88 times the average insurance cost of the total population.
+Sub population region_sw has average insurance cost $12346.94 that is 0.93 times the average insurance cost of the total population.
+Sub population children_0 has average insurance cost $12365.98 that is 0.93 times the average insurance cost of the total population.
+Sub population region_nw has average insurance cost $12417.58 that is 0.94 times the average insurance cost of the total population.
+Sub population sex_female has average insurance cost $12569.58 that is 0.95 times the average insurance cost of the total population.
+Sub population children_1 has average insurance cost $12731.17 that is 0.96 times the average insurance cost of the total population.
+Sub population region_ne has average insurance cost $13406.38 that is 1.01 times the average insurance cost of the total population.
+Sub population children_4 has average insurance cost $13850.66 that is 1.04 times the average insurance cost of the total population.
+Sub population sex_male has average insurance cost $13956.75 that is 1.05 times the average insurance cost of the total population.
+Sub population age_40_49 has average insurance cost $14399.2 that is 1.09 times the average insurance cost of the total population.
+Sub population region_se has average insurance cost $14735.41 that is 1.11 times the average insurance cost of the total population.
+Sub population children_2 has average insurance cost $15073.56 that is 1.14 times the average insurance cost of the total population.
+Sub population children_3 has average insurance cost $15355.32 that is 1.16 times the average insurance cost of the total population.
+Sub population bmi_obese has average insurance cost $15383.41 that is 1.16 times the average insurance cost of the total population.
+Sub population age_50_59 has average insurance cost $16495.23 that is 1.24 times the average insurance cost of the total population.
+Sub population bmi_severe_obese has average insurance cost $16784.62 that is 1.26 times the average insurance cost of the total population.
+Sub population age_60_69 has average insurance cost $21248.02 that is 1.6 times the average insurance cost of the total population.
+Sub population smoker_yes has average insurance cost $32050.23 that is 2.42 times the average insurance cost of the total population.
