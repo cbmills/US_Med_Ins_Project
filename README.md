@@ -7,4 +7,4 @@ From this analysis, we can make some broad level conclusions about how each fact
 * Extracting Data from CSV file
 * Organizing Data
 * Analyzing Data
-* Writing Results into a txt file [results.txt](www.me.com)
+* Writing Results into a txt file [results.txt](https://github.com/cbmills/US_Med_Ins_Project/blob/main/results.txt)
